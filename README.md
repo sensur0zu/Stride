@@ -1,1 +1,1 @@
-# stride
+# Stride
