@@ -14,6 +14,15 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.cl-userButtonPopoverFooter{
+  display: none;  
+}
+
+
+.cl-footerAction{
+  display: none;  
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;

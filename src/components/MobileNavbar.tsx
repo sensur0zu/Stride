@@ -58,7 +58,6 @@ function MobileNavbar() {
             >
               <Link href="/">
                 <HomeIcon className="w-4 h-4" />
-                Home
               </Link>
             </Button>
 
@@ -71,7 +70,6 @@ function MobileNavbar() {
                 >
                   <Link href="/notifications">
                     <BellIcon className="w-4 h-4" />
-                    Notifications
                   </Link>
                 </Button>
                 <Button
@@ -81,7 +79,6 @@ function MobileNavbar() {
                 >
                   <Link href="/profile">
                     <UserIcon className="w-4 h-4" />
-                    Profile
                   </Link>
                 </Button>
                 <SignOutButton>
